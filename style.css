@@ -1,0 +1,31 @@
+.image{
+    float:left;
+    margin: 44px 70px 7px 0;
+}
+.div-flex{
+    display: flex;
+    flex-direction: column;
+   border-bottom: 1px solid ;
+}
+h1{
+    background-color: none;
+    text-decoration: underline;
+}
+body{
+    width: 1024px;
+    margin: auto;
+    border: 4px double black;
+}
+div{
+    background-color: #C8DBDA;
+
+    background-size: 0px 1px;
+    padding: 10px 10px 10px 30px;
+}
+img{
+
+    border: none;
+    border-radius: 100px;
+    border: 3px solid green;
+    box-shadow: 0 0 7px #666;
+}
